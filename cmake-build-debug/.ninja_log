@@ -1,0 +1,10 @@
+# ninja log v5
+10	356	7242056619696038	CMakeFiles/tba.dir/functions.cpp.obj	1a76a0f8655b4ba3
+364	440	7242056620504515	tba.exe	4d4dee537961aace
+1	364	7242056619770433	CMakeFiles/tba.dir/main.cpp.obj	a80cbdae85a91eb7
+2	746	7242122383933664	CMakeFiles/tba.dir/main.cpp.obj	a80cbdae85a91eb7
+746	891	7242122385357216	tba.exe	4d4dee537961aace
+2	363	7242123241427300	CMakeFiles/tba.dir/main.cpp.obj	a80cbdae85a91eb7
+363	439	7242123242161420	tba.exe	4d4dee537961aace
+1	362	7242123793050992	CMakeFiles/tba.dir/main.cpp.obj	a80cbdae85a91eb7
+362	439	7242123793785071	tba.exe	4d4dee537961aace

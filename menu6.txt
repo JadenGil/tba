@@ -1,0 +1,6 @@
+What would you like to do? Enter the number of your choice:
+[1] You look at Pam and say,
+"Don't cry darling why don't I take you back to my farm and show you my homemade wine selection. "
+[2]You look at pam and say,
+"I understand what you mean but you make my heart flutter Pam, I want you in my life."
+[3] Try and out drink Pam.

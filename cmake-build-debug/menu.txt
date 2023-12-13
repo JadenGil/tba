@@ -1,0 +1,4 @@
+What would you like to do? Enter the number of your choice:
+[1] Walk towards Pam with confidence and offer to purchase her next round.
+[2] Walk towards Pam but you're clearly nervous, and it's obvious.
+[3] Exit the tavern.

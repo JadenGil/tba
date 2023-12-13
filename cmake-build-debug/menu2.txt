@@ -1,0 +1,4 @@
+What would you like to do? Enter the number of your choice:
+[1] Spark up a conversation about the rich and complex flavors of Gus's house-made IPA
+[2] Sip on your drink and half-heartedly make conversation
+[3] You chug your beer as fast as possible and look Pam in the eyes without blinking until she is finished her drink.
